@@ -1,0 +1,14 @@
+{
+  "name": "出退勤打刻",
+  "short_name": "打刻",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef2f6",
+  "theme_color": "#0f172a",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
